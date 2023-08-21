@@ -1,1 +1,122 @@
-[{"question":"Mikä joukkue voitti Italian Serie A:n kaudella 2020-2021?","options":["Juventus","Inter Milan","AC Milan","Napoli"],"correctOption":1},{"question":"Kuka pelaaja pitää hallussaan eniten maalintekijän titteliä Serie A:ssa?","options":["Roberto Baggio","Alessandro Del Piero","Silvio Piola","Francesco Totti"],"correctOption":2},{"question":"Mikä seura tunnetaan lempinimellä 'Nerazzurri'?","options":["Juventus","Roma","Inter Milan","AC Milan"],"correctOption":2},{"question":"Mikä seura on voittanut eniten Serie A:n mestaruuksia?","options":["Juventus","AC Milan","Inter Milan","AS Roma"],"correctOption":0},{"question":"Kuka pelaaja tunnetaan lempinimellä 'Il Capitano' ja edusti AS Romaa?","options":["Roberto Baggio","Francesco Totti","Alessandro Nesta","Fabio Cannavaro"],"correctOption":1},{"question":"Mikä seura tunnetaan lempinimellä 'Bianconeri'?","options":["Roma","Napoli","Juventus","Lazio"],"correctOption":2},{"question":"Minkä seuran kotistadion on San Siro?","options":["Inter Milan","AC Milan","Juventus","Roma"],"correctOption":1},{"question":"Kuka pelaaja voitti kuusi Serie A:n maalikuninkuutta peräkkäin 1980-luvulla?","options":["Diego Maradona","Roberto Baggio","Michel Platini","Paolo Rossi"],"correctOption":2},{"question":"Mikä seura on voittanut kolme perättäistä Serie A:n mestaruutta 2011-2014?","options":["Juventus","AC Milan","Inter Milan","Napoli"],"correctOption":0},{"question":"Mikä seura tunnetaan lempinimellä 'Giallorossi'?","options":["Juventus","Napoli","Roma","Fiorentina"],"correctOption":2},{"question":"Mikä joukkue jääkiekon Suomen mestaruuden vuonna 2013?","options":["Porin Ässät","Oulun Kärpät","Tampereen Tappara","Hämeenlinnan Pallokerho"],"correctOption":1},{"question":"Mikä joukkue jääkiekon Suomen mestaruuden vuonna 2013?","options":["Porin Ässät","Oulun Kärpät","Tampereen Tappara","Hämeenlinnan Pallokerho"],"correctOption":1}]
+[
+    {
+        "question": "Kuka on Crash Bandicoot -pelisarjan kehittänyt peliyhtiö?",
+        "options": [
+          "Ubisoft",
+          "Blizzard Entertainment",
+          "Naughty Dog",
+          "Electronic Arts"
+        ],
+        "correctOption": 2
+    },
+    {
+        "question": "Mikä on Super Mario -pelisarjan päävastustajan nimi?",
+        "options": [
+          "Bowser",
+          "Koopa Troopa",
+          "Goomba",
+          "Wario"
+        ],
+        "correctOption": 0
+    },
+    {
+        "question": "Mikä on Super Mario -pelisarjan prinsessan nimi, jonka Mario usein pelastaa?",
+        "options": [
+            "Prinsessa Toadstool",
+            "Prinsessa Daisy",
+            "Prinsessa Peach",
+            "Prinsessa Rosalina"
+        ],
+        "correctOption": 2
+    },
+    {
+        "question": "Mikä on Super Mario -pelisarjan ensimmäinen peli, jossa Mario esiintyy?",
+        "options": [
+            "Super Mario Bros.",
+            "Super Mario 64",
+            "Super Mario World",
+            "Super Mario Land"
+        ],
+        "correctOption": 0
+    },
+    {
+        "question": "Mikä ohjelmointikieli tunnetaan erityisesti web-kehityksessä ja sen syntaksi perustuu HTML:ään ja CSS:ään?",
+        "options": [
+          "Java",
+          "Python",
+          "JavaScript",
+          "Ruby"
+        ],
+        "correctOption": 2
+    },
+    {
+        "question": "Mikä ohjelmointikieli on suunniteltu helppolukuiseksi ja tunnetaan siitä, että siinä on vähemmän syntaksia kuin monissa muissa kielissä?",
+        "options": [
+          "C++",
+          "Swift",
+          "Perl",
+          "Python"
+        ],
+        "correctOption": 3
+    },
+    {
+        "question": "Mikä ohjelmointikieli käytetään erityisesti tieteellisissä laskentatehtävissä ja datan analysoinnissa, ja siinä on suuri määrä kirjastoja ja työkaluja?",
+        "options": [
+          "R",
+          "Java",
+          "PHP",
+          "C#"
+        ],
+        "correctOption": 0
+    },
+    {
+        "question": "Mikä ohjelmointikieli on suunniteltu korostamaan selkeyttä ja yksinkertaisuutta, ja siinä on usein yksi tapa tehdä asiat?",
+        "options": [
+          "Scala",
+          "Ruby",
+          "C",
+          "Go"
+        ],
+        "correctOption": 3
+    },
+    {
+        "question": "Mikä ohjelmointikieli on alun perin kehitetty Microsoftin toimesta ja se toimii sekä web-kehityksessä että sovelluskehityksessä?",
+        "options": [
+          "PHP",
+          "C#",
+          "Swift",
+          "Perl"
+        ],
+        "correctOption": 1
+    },
+    {
+        "question": "Kuka on Spamton G. Spamton pelissä 'Deltarune'?",
+        "options": [
+          "Päävastustaja",
+          "Kauppias",
+          "Ystävällinen NPC",
+          "Pelihahmon lemmikki"
+        ],
+        "correctOption": 1
+    },
+    {
+        "question": "Mikä on Suomen pääkaupunki?",
+        "options": [
+          "Tampere",
+          "Turku",
+          "Helsinki",
+          "Oulu"
+        ],
+        "correctOption": 2
+    },
+    {
+        "question": "Mikä jääkiekon SM-liigan joukkue voitti viimeisimmän mestaruuden kaudella 2020-2021?",
+        "options": [
+          "Tappara",
+          "HIFK",
+          "Kärpät",
+          "Lukko"
+        ],
+        "correctOption": 3
+    }
+]
