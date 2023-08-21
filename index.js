@@ -49,5 +49,5 @@ app.get("/questions", checkApiKey, (req, res) => {
 })
 
 app.listen(port, () => {
-    console.log(`Sovellus kuuntelee portissa ${port}`);
+    console.log(`Sovellus kuuntelee portissa ${port}.`);
 });
